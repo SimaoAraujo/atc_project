@@ -62,6 +62,7 @@ int main()
 			bnk.changedata(name);
 			pt.add(bnk);
 			break;
+			//ola andee
 
 		case 2:										// Create User
 			//cout << "Insert Name." << endl;
