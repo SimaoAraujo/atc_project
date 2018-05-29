@@ -76,7 +76,7 @@ int main()
 			//cin >> numbercc;
 			//acc.changeuserdata(name, birthdate, address, phonenumber, numbercc, 0);
 			break;
-			//olaaaaaa
+			//olaaaaaa pila
 
 		case 3:										// Open Account
 			cout << "Log in as user (1) or create user (2)? " << endl;
